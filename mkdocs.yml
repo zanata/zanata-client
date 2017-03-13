@@ -1,0 +1,10 @@
+site_name: Zanata Client
+docs_dir: docs
+repo_name: GitHub
+repo_url: http://www.github.com/zanata/zanata-client
+theme: readthedocs
+# theme_dir: For custom themes
+
+pages:
+- Home: 'index.md'
+
