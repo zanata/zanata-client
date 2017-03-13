@@ -1,3 +1,6 @@
+All documentation has moved to [http://docs.zanata.org/en/release/client/](http://docs.zanata.org/en/release/client/)
+============
+
 To upload documents to your project-version, the command-line client's `push` command can be used.
 
 These instructions assume that you have installed Zanata-CLI as shown in [Installing the Client](/#installation), and have saved user and project configuration as shown in [Configuring the Client](/configuration).

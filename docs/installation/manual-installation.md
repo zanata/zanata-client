@@ -1,3 +1,6 @@
+All documentation has moved to [http://docs.zanata.org/en/release/client/](http://docs.zanata.org/en/release/client/)
+============
+
 If you want to setup zanata-cli from manually (without 0install):
 
  1. Navigate to [zanata-cli on Maven Central](http://search.maven.org/#search%7Cga%7C1%7Cg%3A%22org.zanata%22%20AND%20a%3A%22zanata-cli%22).

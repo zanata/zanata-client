@@ -1,3 +1,6 @@
+All documentation has moved to [http://docs.zanata.org/en/release/client/](http://docs.zanata.org/en/release/client/)
+============
+
 ** Prerequisite **
 - Install Java runtime 8 (JRE 8) from http://www.oracle.com/technetwork/java/javase/downloads/index.html
 

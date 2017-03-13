@@ -1,3 +1,6 @@
+All documentation has moved to [http://docs.zanata.org/en/release/client/](http://docs.zanata.org/en/release/client/)
+============
+
 ### RHEL/Fedora
 
 For RHEL 6, you will need to enable EPEL repository, with a command like this:

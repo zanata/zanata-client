@@ -1,3 +1,6 @@
+All documentation has moved to [http://docs.zanata.org/en/release/client/](http://docs.zanata.org/en/release/client/)
+============
+
 ## 3.9.1
 ##### Bug Fixes
  * [ZNTA-1178](https://zanata.atlassian.net/browse/ZNTA-1178) - File type project can not be pulled using zanata cli

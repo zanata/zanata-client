@@ -1,3 +1,6 @@
+All documentation has moved to [http://docs.zanata.org/en/release/client/](http://docs.zanata.org/en/release/client/)
+============
+
 ![Zanata](http://assets-zanata.rhcloud.com/master/assets/img/logo/logo-128.png)
 
 [Zanata.org](http://zanata.org) | [Twitter](http://www.twitter.com/#!/zanatatm) | [Blog](http://blog-zanatatm.rhcloud.com/) | [IRC@Freenode](http://webchat.freenode.net/?channels=zanata)

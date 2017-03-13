@@ -1,3 +1,6 @@
+All documentation has moved to [http://docs.zanata.org/en/release/client/](http://docs.zanata.org/en/release/client/)
+============
+
 ## RHEL 7
 There are two ways to install zanata-client, via `0install` or `yum`.
 

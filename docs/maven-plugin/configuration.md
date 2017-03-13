@@ -1,3 +1,6 @@
+All documentation has moved to [http://docs.zanata.org/en/release/client/](http://docs.zanata.org/en/release/client/)
+============
+
 To use the Maven Plugin, some Zanata configuration files and an installation of Apache Maven are needed. Some additional configuration will let you use a shorter command to run the Maven Plugin.
 
 For Apache Maven installation, see [Installing the Maven Plugin](/maven-plugin/installation).
